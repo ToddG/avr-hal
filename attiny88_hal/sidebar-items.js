@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["attiny88","ATtiny88"],["clock","Generic trait for clock speeds"],["delay","Delay implementations"],["i2c","I2C Bus"],["port","Digital IO Implementations"],["prelude",""],["spi","Implementation of the Rust Embedded-HAL SPI FullDuplex trait for AVR."]]});

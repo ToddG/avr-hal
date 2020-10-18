@@ -1,0 +1,1 @@
+initSidebarItems({"attr":[["entry","See `avr_device::entry`."]],"mod":[["adc",""],["atmega2560","ATmega2560"],["clock","Generic trait for clock speeds"],["delay","Delay implementations"],["i2c",""],["port","Digital IO Implementations"],["prelude",""],["pwm","Support for PWM pins"],["spi","Implementation of the Rust Embedded-HAL SPI FullDuplex trait for AVR."],["usart",""]]});

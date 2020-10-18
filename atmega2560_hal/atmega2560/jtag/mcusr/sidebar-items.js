@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["JTRF_R","Reader of field `JTRF`"],["MCUSR_SPEC","MCU Status Register"],["R","Reader of register MCUSR"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["JTD_R","Reader of field `JTD`"],["JTD_W","Write proxy for field `JTD`"],["MCUCR_SPEC","MCU Control Register"],["R","Reader of register MCUCR"],["W","Writer for register MCUCR"]]});

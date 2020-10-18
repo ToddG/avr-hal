@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Reader of register TWAR"],["TWAR_SPEC","TWI (Slave) Address register"],["TWA_R","Reader of field `TWA`"],["TWA_W","Write proxy for field `TWA`"],["TWGCE_R","Reader of field `TWGCE`"],["TWGCE_W","Write proxy for field `TWGCE`"],["W","Writer for register TWAR"]]});

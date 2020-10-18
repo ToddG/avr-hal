@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Reader of register UEBCLX"],["UEBCLX_SPEC","This register you can `read`. See API."]]});

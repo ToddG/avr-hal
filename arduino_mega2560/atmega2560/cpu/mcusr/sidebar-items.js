@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BORF_R","Reader of field `BORF`"],["EXTRF_R","Reader of field `EXTRF`"],["JTRF_R","Reader of field `JTRF`"],["MCUSR_SPEC","MCU Status Register"],["PORF_R","Reader of field `PORF`"],["R","Reader of register MCUSR"],["WDRF_R","Reader of field `WDRF`"]]});

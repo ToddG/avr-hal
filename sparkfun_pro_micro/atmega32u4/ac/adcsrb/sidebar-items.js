@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ACME_R","Reader of field `ACME`"],["ACME_W","Write proxy for field `ACME`"],["ADCSRB_SPEC","ADC Control and Status Register B"],["R","Reader of register ADCSRB"],["W","Writer for register ADCSRB"]]});

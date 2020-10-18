@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DT1A_SPEC","Dead Time Value Register A"],["DTVH_R","Reader of field `DTVH`"],["DTVH_W","Write proxy for field `DTVH`"],["DTVL_R","Reader of field `DTVL`"],["DTVL_W","Write proxy for field `DTVL`"],["R","Reader of register DT1A"],["W","Writer for register DT1A"]]});

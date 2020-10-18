@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["CS0_A","Clock Select"]],"struct":[["CS0_R","Reader of field `CS0`"],["CS0_W","Write proxy for field `CS0`"],["CTC0_R","Reader of field `CTC0`"],["CTC0_W","Write proxy for field `CTC0`"],["R","Reader of register TCCR0A"],["TCCR0A_SPEC","Timer/Counter Control Register A"],["W","Writer for register TCCR0A"]]});

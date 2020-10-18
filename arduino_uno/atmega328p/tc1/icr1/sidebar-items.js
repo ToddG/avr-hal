@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ICR1_SPEC","Timer/Counter1 Input Capture Register Bytes"],["R","Reader of register ICR1"],["W","Writer for register ICR1"]]});

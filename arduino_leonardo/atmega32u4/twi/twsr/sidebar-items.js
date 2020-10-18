@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["TWPS_A","TWI Prescaler"]],"struct":[["R","Reader of register TWSR"],["TWPS_R","Reader of field `TWPS`"],["TWPS_W","Write proxy for field `TWPS`"],["TWSR_SPEC","TWI Status Register"],["TWS_R","Reader of field `TWS`"],["W","Writer for register TWSR"]]});

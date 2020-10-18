@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["OSCCAL_R","Reader of field `OSCCAL`"],["OSCCAL_SPEC","Oscillator Calibration Value"],["R","Reader of register OSCCAL"]]});

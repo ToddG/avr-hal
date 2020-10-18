@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["OCR0A_SPEC","Timer/Counter0 Output Compare Register"],["R","Reader of register OCR0A"],["W","Writer for register OCR0A"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["OCR1B_SPEC","Output Compare Register B"],["R","Reader of register OCR1B"],["W","Writer for register OCR1B"]]});

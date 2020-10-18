@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Reader of register USBINT"],["USBINT_SPEC","This register you can `read`, `write_with_zero`, `reset`, `write`, `modify`. See API."],["VBUSTI_R","Reader of field `VBUSTI`"],["VBUSTI_W","Write proxy for field `VBUSTI`"],["W","Writer for register USBINT"]]});

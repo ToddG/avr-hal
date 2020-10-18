@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["GIFR_SPEC","General Interrupt Flag register"],["INTF0_R","Reader of field `INTF0`"],["INTF0_W","Write proxy for field `INTF0`"],["PCIF_R","Reader of field `PCIF`"],["PCIF_W","Write proxy for field `PCIF`"],["R","Reader of register GIFR"],["W","Writer for register GIFR"]]});

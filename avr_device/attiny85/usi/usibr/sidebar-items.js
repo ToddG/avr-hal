@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Reader of register USIBR"],["USIBR_SPEC","USI Buffer Register"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["adc",""],["atmega48p","ATmega48P"],["clock","Generic trait for clock speeds"],["delay","Delay implementations"],["i2c","I2C Bus"],["port","Digital IO Implementations"],["prelude",""],["pwm","Support for PWM pins"],["spi","Implementation of the Rust Embedded-HAL SPI FullDuplex trait for AVR."],["usart","Serial interface using USART"]]});

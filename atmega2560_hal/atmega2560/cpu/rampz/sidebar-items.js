@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Reader of register RAMPZ"],["RAMPZ_SPEC","RAM Page Z Select Register"],["W","Writer for register RAMPZ"]]});

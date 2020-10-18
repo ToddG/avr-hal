@@ -1,0 +1,1 @@
+initSidebarItems({"derive":[["proc_macro_hack_uwrite",""],["proc_macro_hack_uwriteln",""],["uDebug","Automatically derive the `uDebug` trait for a `struct` or `enum`"]]});

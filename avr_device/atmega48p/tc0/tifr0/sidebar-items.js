@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["OCF0A_R","Reader of field `OCF0A`"],["OCF0B_R","Reader of field `OCF0B`"],["R","Reader of register TIFR0"],["TIFR0_SPEC","Timer/Counter0 Interrupt Flag register"],["TOV0_R","Reader of field `TOV0`"]]});

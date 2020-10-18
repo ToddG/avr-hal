@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["OCDR_SPEC","On-Chip Debug Related Register in I/O Memory"],["R","Reader of register OCDR"],["W","Writer for register OCDR"]]});

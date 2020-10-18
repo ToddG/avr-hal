@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["OCR3C_SPEC","Timer/Counter3 Output Compare Register B Bytes"],["R","Reader of register OCR3C"],["W","Writer for register OCR3C"]]});

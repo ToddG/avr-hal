@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CTRLDIR_R","Reader of field `CTRLDIR`"],["CURRBK_R","Reader of field `CURRBK`"],["R","Reader of register UESTA1X"],["UESTA1X_SPEC","This register you can `read`. See API."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Reader of register TWBR"],["TWBR_SPEC","TWI Bit Rate register"],["W","Writer for register TWBR"]]});

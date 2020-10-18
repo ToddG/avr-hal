@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["EEDR_SPEC","EEPROM Data Register"],["R","Reader of register EEDR"],["W","Writer for register EEDR"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ADDEN_R","Reader of field `ADDEN`"],["ADDEN_W","Write proxy for field `ADDEN`"],["R","Reader of register UDADDR"],["UADD_R","Reader of field `UADD`"],["UADD_W","Write proxy for field `UADD`"],["UDADDR_SPEC","This register you can `read`, `write_with_zero`, `reset`, `write`, `modify`. See API."],["W","Writer for register UDADDR"]]});

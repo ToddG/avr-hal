@@ -1,0 +1,1 @@
+initSidebarItems({"attr":[["entry","See `avr_device::entry`."]],"mod":[["atmega1280","ATmega1280"],["clock","Generic trait for clock speeds"],["delay","Delay implementations"],["i2c",""],["port","Digital IO Implementations"],["prelude",""],["usart",""]]});

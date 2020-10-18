@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["EEARL_SPEC","EEPROM Address Register Low Byte"],["R","Reader of register EEARL"],["W","Writer for register EEARL"]]});

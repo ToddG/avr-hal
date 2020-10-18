@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["LB_A","Memory Lock"]],"struct":[["LB_R","Reader of field `LB`"],["LB_W","Write proxy for field `LB`"],["LOCKBIT_SPEC","This register you can `read`, `write_with_zero`, `reset`, `write`, `modify`. See API."],["R","Reader of register LOCKBIT"],["W","Writer for register LOCKBIT"]]});

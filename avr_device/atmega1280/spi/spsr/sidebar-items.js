@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Reader of register SPSR"],["SPI2X_R","Reader of field `SPI2X`"],["SPI2X_W","Write proxy for field `SPI2X`"],["SPIF_R","Reader of field `SPIF`"],["SPSR_SPEC","SPI Status Register"],["W","Writer for register SPSR"],["WCOL_R","Reader of field `WCOL`"]]});

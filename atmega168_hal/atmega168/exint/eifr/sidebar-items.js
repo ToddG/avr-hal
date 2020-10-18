@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["EIFR_SPEC","External Interrupt Flag Register"],["INTF_R","Reader of field `INTF`"],["R","Reader of register EIFR"]]});

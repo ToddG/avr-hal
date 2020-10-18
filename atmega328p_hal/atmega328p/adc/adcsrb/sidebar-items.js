@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ADTS_A","ADC Auto Trigger Source bits"]],"struct":[["ACME_R","Reader of field `ACME`"],["ACME_W","Write proxy for field `ACME`"],["ADCSRB_SPEC","The ADC Control and Status register B"],["ADTS_R","Reader of field `ADTS`"],["ADTS_W","Write proxy for field `ADTS`"],["R","Reader of register ADCSRB"],["W","Writer for register ADCSRB"]]});

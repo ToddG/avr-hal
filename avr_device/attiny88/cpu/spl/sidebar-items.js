@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Reader of register SPL"],["SPL_SPEC","Stack Pointer Low"],["W","Writer for register SPL"]]});

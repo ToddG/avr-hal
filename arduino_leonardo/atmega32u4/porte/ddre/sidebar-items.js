@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DDRE_SPEC","Data Direction Register, Port E"],["PE2_R","Reader of field `PE2`"],["PE2_W","Write proxy for field `PE2`"],["PE6_R","Reader of field `PE6`"],["PE6_W","Write proxy for field `PE6`"],["R","Reader of register DDRE"],["W","Writer for register DDRE"]]});

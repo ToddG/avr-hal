@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Reader of register SPDR"],["SPDR_SPEC","SPI Data Register"],["W","Writer for register SPDR"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["EPDIR_R","Reader of field `EPDIR`"],["EPDIR_W","Write proxy for field `EPDIR`"],["EPTYPE_R","Reader of field `EPTYPE`"],["EPTYPE_W","Write proxy for field `EPTYPE`"],["R","Reader of register UECFG0X"],["UECFG0X_SPEC","This register you can `read`, `write_with_zero`, `reset`, `write`, `modify`. See API."],["W","Writer for register UECFG0X"]]});

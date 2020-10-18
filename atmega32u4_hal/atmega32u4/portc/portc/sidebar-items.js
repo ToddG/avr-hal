@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["PC6_R","Reader of field `PC6`"],["PC6_W","Write proxy for field `PC6`"],["PC7_R","Reader of field `PC7`"],["PC7_W","Write proxy for field `PC7`"],["PORTC_SPEC","Port C Data Register"],["R","Reader of register PORTC"],["W","Writer for register PORTC"]]});

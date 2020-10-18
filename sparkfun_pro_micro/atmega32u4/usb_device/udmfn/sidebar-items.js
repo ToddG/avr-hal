@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FNCERR_R","Reader of field `FNCERR`"],["R","Reader of register UDMFN"],["UDMFN_SPEC","This register you can `read`. See API."]]});

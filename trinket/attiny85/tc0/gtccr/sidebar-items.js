@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["GTCCR_SPEC","General Timer/Counter Control Register"],["PSR0_R","Reader of field `PSR0`"],["PSR0_W","Write proxy for field `PSR0`"],["R","Reader of register GTCCR"],["TSM_R","Reader of field `TSM`"],["TSM_W","Write proxy for field `TSM`"],["W","Writer for register GTCCR"]]});

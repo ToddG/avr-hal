@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["GPIOR0_SPEC","General purpose register 0"],["R","Reader of register GPIOR0"],["W","Writer for register GPIOR0"]]});
